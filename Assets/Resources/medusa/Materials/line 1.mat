@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: line
+  m_Name: line 1
   m_Shader: {fileID: 4800000, guid: 5b0eda8297fcd4dc394c52c17a8af8a2, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -62,8 +62,8 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _HeightFactor: 0.1
-    - _LengthFactor: 8
+    - _HeightFactor: 0.005
+    - _LengthFactor: 4
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
