@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: d99bd595ccd134afeb48425c9112910b
+timeCreated: 1517459418
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 13683
+    100002: Birth 001
+    100004: Birth 002
+    100006: Birth 003
+    100008: Bone004
+    100010: Bone005
+    100012: Bone008
+    100014: Bone009
+    100016: Delete 001
+    100018: Delete 002
+    100020: Delete 003
+    100022: Display 001
+    100024: Display 002
+    100026: Display 003
+    100028: Display 004
+    100030: Display 005
+    100032: Display 006
+    100034: Event 001
+    100036: Event 002
+    100038: Event 003
+    100040: Event 004
+    100042: Event 005
+    100044: Event 006
+    100046: Material Dynamic 001
+    100048: Material Dynamic 002
+    100050: Material Dynamic 003
+    100052: Particle View 001
+    100054: PF Source 003->Event 001
+    100056: PF Source 003->Event 002
+    100058: PF Source 003->Event 003
+    100060: PF Source 003->PF Source 003
+    100062: Position Object 001
+    100064: Position Object 002
+    100066: Position Object 003
+    100068: Render 001
+    100070: Render 002
+    100072: Render 003
+    100074: Rotation 001
+    100076: Rotation 002
+    100078: Rotation 003
+    100080: Scale 001
+    100082: Shape 001
+    100084: Shape 002
+    100086: Shape Facing 001
+    100088: Speed 001
+    100090: Speed 002
+    100092: Speed 003
+    100094: //RootNode
+    400000: 13683
+    400002: Birth 001
+    400004: Birth 002
+    400006: Birth 003
+    400008: Bone004
+    400010: Bone005
+    400012: Bone008
+    400014: Bone009
+    400016: Delete 001
+    400018: Delete 002
+    400020: Delete 003
+    400022: Display 001
+    400024: Display 002
+    400026: Display 003
+    400028: Display 004
+    400030: Display 005
+    400032: Display 006
+    400034: Event 001
+    400036: Event 002
+    400038: Event 003
+    400040: Event 004
+    400042: Event 005
+    400044: Event 006
+    400046: Material Dynamic 001
+    400048: Material Dynamic 002
+    400050: Material Dynamic 003
+    400052: Particle View 001
+    400054: PF Source 003->Event 001
+    400056: PF Source 003->Event 002
+    400058: PF Source 003->Event 003
+    400060: PF Source 003->PF Source 003
+    400062: Position Object 001
+    400064: Position Object 002
+    400066: Position Object 003
+    400068: Render 001
+    400070: Render 002
+    400072: Render 003
+    400074: Rotation 001
+    400076: Rotation 002
+    400078: Rotation 003
+    400080: Scale 001
+    400082: Shape 001
+    400084: Shape 002
+    400086: Shape Facing 001
+    400088: Speed 001
+    400090: Speed 002
+    400092: Speed 003
+    400094: //RootNode
+    2300000: 13683
+    3300000: 13683
+    4300000: 13683
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #202'
+    second: {fileID: 2100000, guid: c655d35bde0884132add913bb3ce0888, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
